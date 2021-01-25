@@ -1,0 +1,7 @@
+{
+  "name": "ExaminerApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
